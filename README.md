@@ -31,6 +31,6 @@
 
 ---
 
-<p><img align="left" src="https://edd-g5-edd-g5.vercel.app/api/top-langs?username=edd-g5&show_icons=true&locale=en&layout=compact" alt="edd-g5" /></p>
+<p><img align="left" src="https://edd-g5-58ndbgqv7-edd-g5.vercel.app/api/top-langs?username=edd-g5&show_icons=true&locale=en&layout=compact" alt="edd-g5" /></p>
 
-<p>&nbsp;<img align="center" src="https://edd-g5-edd-g5.vercel.app/api?username=edd-g5&show_icons=true&locale=en" alt="edd-g5" /></p>
+<p>&nbsp;<img align="center" src="https://edd-g5-58ndbgqv7-edd-g5.vercel.app/api?username=edd-g5&show_icons=true&locale=en" alt="edd-g5" /></p>

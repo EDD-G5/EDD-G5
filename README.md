@@ -3,9 +3,9 @@
 
 <p align="center"><a href="https://www.linkedin.com/in/edu-abad-24b3b223b/"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><a href="https://twitter.com/Ed_4bd"><img src="https://img.shields.io/badge/-TWITTER-1A8CD8?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a><a href="https://github.com/EDD-G5"><img src="https://img.shields.io/badge/-GITHUB-404040?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a></p>
 
-- 🔭 I’m currently working on **Nothing in particular**
+- 🔭 I’m currently working on **nothing in particular**
 
-- 🌱 I’m currently learning **Javascript, tailwind**
+- 🌱 I’m currently learning **javascript & tailwind**
 
 - 💬 Ask me about **anything**
 
